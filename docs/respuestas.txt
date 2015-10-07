@@ -1,3 +1,5 @@
 Trabajo en equipo con git
 
-Ejecicio 52: La interpretación no se crea un ejecutable en codigo maquina, mientras que en la compilacion si.
+Ejercicio 52: La interpretación no se crea un ejecutable en codigo maquina, mientras que en la compilacion si.
+
+Ejercicio 59: La diferencia esta en la sintaxis del comando para mostrar por pantalla. Su significado es la ruta del interprete utilizado por el script.
