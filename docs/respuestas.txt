@@ -1,1 +1,3 @@
 Trabajo en equipo con git
+
+Ejecicio 52: La interpretación no se crea un ejecutable en codigo maquina, mientras que en la compilacion si.
